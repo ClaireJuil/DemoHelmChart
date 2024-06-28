@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: app-config
 data:
-  country: France
+  country: Franceyyy
   city: Paris
